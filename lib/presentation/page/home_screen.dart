@@ -50,7 +50,7 @@ class HomeScreenState extends State<HomeScreen>{
     crossAxisAlignment: CrossAxisAlignment.start,
   children: <Widget>[
     Center(
-      child: Text("Xin chào, An !",style: TextStyle(
+      child: Text("Xin chào, Tân !",style: TextStyle(
         fontSize: 24, color: Colors.white, fontWeight: FontWeight.bold)),
     ),
     SizedBox(height: h*2),
